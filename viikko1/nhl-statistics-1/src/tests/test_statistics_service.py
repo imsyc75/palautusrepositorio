@@ -39,6 +39,11 @@ class TestStatisticsService(unittest.TestCase):
         self.assertEqual(top_players[0].name, "Gretzky")
         self.assertEqual(top_players[1].name, "Lemieux")
         self.assertEqual(top_players[2].name, "Yzerman")
+    
+    #converge
+    def test_top_sort_by_points(self):
+        top_players = self.stats.top(3, sort_by=SortBy.POINTS)
+        self.assertEqual(top_players[0].points, max(player.points for player in top_players))
 
     def test_top_sort_by_goals(self):
         top_players = self.stats.top(3, sort_by=SortBy.GOALS)
