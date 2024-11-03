@@ -1,6 +1,6 @@
 import unittest
-from statistics_service import StatisticsService
-from player import Player
+from src.statistics_service import StatisticsService
+from src.player import Player
 
 class PlayerReaderStub:
     def get_players(self):
