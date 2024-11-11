@@ -15,7 +15,9 @@ def main():
         if player_dict.get('nationality') == 'FIN': #finnish player
             player = Player(player_dict)
             players.append(player)
-
+    
+    #sort by total points
+    players.sort(key=lambda p: p.total_points, reverse=True)
 
     print("\nPlayers from FIN:")
     for player in players:
