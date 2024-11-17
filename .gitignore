@@ -1,1 +1,18 @@
+__pycache__/
+.env
+venv/
+env/
+
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+log.html
+output.xml
+report.html
+selenium-screenshot*.png
+
 .DS_Store
+
+poetry.lock
