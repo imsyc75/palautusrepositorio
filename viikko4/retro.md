@@ -1,0 +1,6 @@
+Retrospektiivitekniikko "Glad, Sad, Mad" Peru on perusarviointisuunnitelma. Se on myös erittäin suosittu retrospektiivien muoto. Joten osallistujat listaavat ongelmia, muutoksia tai havaintoja sprintin aikana. Sitten jakaa ne "iloisiin", "surullisiin" ja "vihaisiin". Tämä edustaa itse asiassa positiivisia kommentteja joukkueesta, negatiivisia kommentteja ja joitain pieniä "valituksia". Keskustele näistä kysymyksistä äänimäärän mukaan laskevassa järjestyksessä, kunnes kaikki kysymykset on käsitelty tai 60 minuuttia on kulunut.
+
+
+
+Retrospektiivitekniikko "Start, Stop, Continue, More of, Less of Wheel" on yksinkertainen ja nopea (10-25 minuuttia) tapa kerätä palautetta tiimiltä työprosessista ja auttaa tiimiä päättämään, miten sopeutua ja parantaa seuraavaksi. Kerää mielipidettä "aloia (mitä uusia asioita pitäisi aloittaa), lopeta (pitäisi lopettaa turhien asioiden tekeminen), jatka (pitäisi jatkaa tehokkaiden asioiden tekemistä), enemmän (mitä pitäisi lisätä), vähemmän (Mitä pitäisi vähentää? )" viidestä näkökulmasta ja keskustele. Jos kyseessä on suuri tiimi (yli 9 henkilöä), se voidaan jakaa ryhmiin. Jokainen ryhmä keskittyy projektin eri puoliin (kuten testaukseen, vaatimuksiin jne.), jokainen luo palautepyörän ja tekee lopuksi yhteenvedon keskustelua.
+
