@@ -1,5 +1,5 @@
 import unittest
-from int_joukko import IntJoukko
+from ..int_joukko import IntJoukko
 
 
 class TestIntJoukko(unittest.TestCase):
