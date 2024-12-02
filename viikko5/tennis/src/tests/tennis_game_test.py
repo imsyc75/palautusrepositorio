@@ -1,6 +1,6 @@
 import unittest
 
-from tennis_game import TennisGame
+from ..tennis_game import TennisGame
 
 test_cases = [
     (0, 0, "Love-All"),
